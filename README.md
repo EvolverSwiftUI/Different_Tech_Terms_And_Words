@@ -6,5 +6,10 @@
 4. .yml file extension - meaning need to understand ?
 5. CI - Continuous Integration
 6. CD - Continuous Delivery/Deployment/?
-7. Jenkins - Open source automation server - used for CI process - called also as CIServer
+7. Jenkins - Open source automation server - used for CI process - it also called as CIServer
 8. Fastlane - need to undestand more here? - but it is used for CD part of CI/CD methodology
+9. gem -
+10. sudo - 
+11. bash -
+12. zsh -
+13. brew -
