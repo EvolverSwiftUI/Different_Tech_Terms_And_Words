@@ -15,3 +15,7 @@
 13. brew -
 14. CDN - Content Delivery Network
 15. IIFE - Immediately Invoked Function Expression
+
+
+16. camelCase notation ---> we use mostly at client side. --->  eg: imageUrl
+17. snake_case notation ---> we use mostly at server side. ---> eg: image_url
