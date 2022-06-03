@@ -17,5 +17,6 @@
 15. IIFE - Immediately Invoked Function Expression
 
 
-16. camelCase notation ---> we use mostly at client side. --->  eg: imageUrl
-17. snake_case notation ---> we use mostly at server side. ---> eg: image_url
+17. camelCase notation ---> we use mostly at client side. --->  eg: imageUrl
+18. snake_case notation ---> we use mostly at server side. ---> eg: image_url
+19. Pascal Case (PascalCase): In this the first letter of every word is in capital letter. ---> eg: ImageUrl
