@@ -20,3 +20,32 @@
 17. camelCase notation ---> we use mostly at client side. --->  eg: imageUrl
 18. snake_case notation ---> we use mostly at server side. ---> eg: image_url
 19. Pascal Case (PascalCase): In this the first letter of every word is in capital letter. ---> eg: ImageUrl
+
+20. IasS - Infrastruture as a Service
+21. PasS - Platform as a Service
+22. SaaS - Software as a Service
+23. BasS - Backend as a Service
+24. FasS - Function as a Service
+
+25. DevOps - Development and Operations
+26. DevSecOps - DevOps with Security
+
+
+Different Backend Languages
+1. Java
+2. C#.NET
+3. Ruy
+4. Php
+5. Javascript
+6. Python
+7. Rust
+8. Go
+
+Trending Tech Domains
+1. Full Stack Development
+2. Data Science and AI
+3. RPA - Robotic Process Automation
+4. Extended Reality
+5. IOT
+6. Cyber Security
+7. Blockchain
