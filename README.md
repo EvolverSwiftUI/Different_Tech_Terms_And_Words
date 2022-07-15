@@ -30,16 +30,21 @@
 25. DevOps - Development and Operations
 26. DevSecOps - DevOps with Security
 
+<br>
+<br>
 
 Different Backend Languages
 1. Java
 2. C#.NET
-3. Ruy
+3. Ruby
 4. Php
 5. Javascript
 6. Python
 7. Rust
 8. Go
+
+<br>
+<br>
 
 Trending Tech Domains
 1. Full Stack Development
