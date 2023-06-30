@@ -52,6 +52,6 @@ Trending Tech Domains
 2. Data Science and AI
 3. RPA - Robotic Process Automation
 4. Extended Reality
-5. IOT
+5. IOT - Internet of Things
 6. Cyber Security
 7. Blockchain
